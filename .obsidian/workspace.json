@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_layouts/default.html.md",
+                "file": "docs/_layouts/default.html.md",
                 "mode": "source",
                 "source": true
               },
@@ -187,11 +187,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3093d99f48c4454a",
+  "active": "83bd9ef6a032dcc1",
   "lastOpenFiles": [
     "docs/_drafts/2025-11-17-welcome-to-jekyll.md",
-    "_layouts/default.html.md",
-    "_layouts",
+    "docs/_layouts/default.html.md",
+    "docs/_layouts",
     "docs/_posts/2025-11-17-testi.md",
     "docs/_posts/2025-11-17-baa.md",
     "zTemplates/newpost.md",
