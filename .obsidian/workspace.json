@@ -13,10 +13,10 @@
             "state": {
               "type": "html-view",
               "state": {
-                "file": "docs/_layouts/default.html"
+                "file": "docs/404.html"
               },
               "icon": "code-glyph",
-              "title": "default"
+              "title": "404"
             }
           }
         ]
@@ -185,8 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3093d99f48c4454a",
+  "active": "83bd9ef6a032dcc1",
   "lastOpenFiles": [
+    "docs/_data/samplelist.yml",
+    "docs/_data/Nimetön asiakirja",
+    "docs/_data",
     "docs/404.html",
     "docs/_layouts/default.html.md",
     "docs/_layouts/default.html",
@@ -199,8 +202,6 @@
     "zTemplates",
     "docs/_site",
     "docs/_sass",
-    "docs/_layouts",
-    "docs/_includes",
-    "docs/_data"
+    "docs/_layouts"
   ]
 }
