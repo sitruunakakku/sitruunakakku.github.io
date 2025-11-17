@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dnd2014.md",
+                "file": "docs/dnd2014.md",
                 "mode": "source",
                 "source": true
               },
@@ -202,10 +202,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0c9e25baa17d7c4",
+  "active": "83bd9ef6a032dcc1",
   "lastOpenFiles": [
     "zTemplates/newnote.md",
-    "dnd2014.md",
+    "docs/dnd2014.md",
     "docs/about.md",
     "docs/_layouts/home.html",
     "docs/_layouts/post.html",
