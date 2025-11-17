@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_posts/2025-11-17-testi.md",
+                "file": "_layouts/default.html.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-11-17-testi"
+              "title": "default.html"
             }
           }
         ]
@@ -190,8 +190,10 @@
   "active": "3093d99f48c4454a",
   "lastOpenFiles": [
     "docs/_drafts/2025-11-17-welcome-to-jekyll.md",
-    "docs/_posts/2025-11-17-baa.md",
+    "_layouts/default.html.md",
+    "_layouts",
     "docs/_posts/2025-11-17-testi.md",
+    "docs/_posts/2025-11-17-baa.md",
     "zTemplates/newpost.md",
     "zAttachments",
     "zTemplates",
