@@ -11,14 +11,12 @@
             "id": "3093d99f48c4454a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "html-view",
               "state": {
-                "file": "docs/_layouts/default.html.md",
-                "mode": "source",
-                "source": true
+                "file": "docs/_layouts/default.html"
               },
-              "icon": "lucide-file",
-              "title": "default.html"
+              "icon": "code-glyph",
+              "title": "default"
             }
           }
         ]
@@ -187,10 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83bd9ef6a032dcc1",
+  "active": "3093d99f48c4454a",
   "lastOpenFiles": [
-    "docs/_drafts/2025-11-17-welcome-to-jekyll.md",
+    "docs/404.html",
     "docs/_layouts/default.html.md",
+    "docs/_layouts/default.html",
+    "docs/_drafts/2025-11-17-welcome-to-jekyll.md",
     "docs/_layouts",
     "docs/_posts/2025-11-17-testi.md",
     "docs/_posts/2025-11-17-baa.md",
@@ -201,8 +201,6 @@
     "docs/_sass",
     "docs/_layouts",
     "docs/_includes",
-    "docs/_data",
-    "docs/_drafts",
-    "docs/_posts/Untitled"
+    "docs/_data"
   ]
 }
