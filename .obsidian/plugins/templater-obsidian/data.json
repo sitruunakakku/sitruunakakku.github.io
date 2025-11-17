@@ -17,6 +17,10 @@
     {
       "folder": "docs/_posts",
       "template": "zTemplates/newpost.md"
+    },
+    {
+      "folder": "/",
+      "template": "zTemplates/newnote.md"
     }
   ],
   "enable_file_templates": false,

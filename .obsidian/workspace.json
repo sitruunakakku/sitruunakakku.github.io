@@ -11,15 +11,32 @@
             "id": "3093d99f48c4454a",
             "type": "leaf",
             "state": {
-              "type": "html-view",
+              "type": "markdown",
               "state": {
-                "file": "docs/404.html"
+                "file": "zTemplates/newnote.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "code-glyph",
-              "title": "404"
+              "icon": "lucide-file",
+              "title": "newnote"
+            }
+          },
+          {
+            "id": "a0c9e25baa17d7c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dnd2014.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "dnd2014"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,23 +202,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83bd9ef6a032dcc1",
+  "active": "a0c9e25baa17d7c4",
   "lastOpenFiles": [
-    "docs/_data/samplelist.yml",
-    "docs/_data/Nimetön asiakirja",
-    "docs/_data",
-    "docs/404.html",
-    "docs/_layouts/default.html.md",
+    "zTemplates/newnote.md",
+    "dnd2014.md",
+    "docs/about.md",
+    "docs/_layouts/home.html",
+    "docs/_layouts/post.html",
+    "docs/_layouts/page.html",
     "docs/_layouts/default.html",
+    "docs/index.md",
+    "docs/_sass/minima/_syntax-highlighting.scss",
+    "docs/_sass/minima/_layout.scss",
+    "docs/_sass/minima/_base.scss",
+    "docs/_sass/minima.scss",
+    "docs/_sass/minima",
+    "docs/_sass",
+    "docs/_includes/icon-twitter.svg",
+    "docs/_includes/icon-github.svg",
+    "docs/assets/minima-social-icons.svg",
+    "docs/_layouts/default.html.md",
     "docs/_drafts/2025-11-17-welcome-to-jekyll.md",
-    "docs/_layouts",
     "docs/_posts/2025-11-17-testi.md",
     "docs/_posts/2025-11-17-baa.md",
-    "zTemplates/newpost.md",
-    "zAttachments",
-    "zTemplates",
-    "docs/_site",
-    "docs/_sass",
-    "docs/_layouts"
+    "zTemplates/newpost.md"
   ]
 }
