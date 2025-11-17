@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/_posts/2025-11-17-baa.md",
+                "file": "docs/_posts/2025-11-17-testi.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-11-17-baa"
+              "title": "2025-11-17-testi"
             }
           }
         ]
@@ -181,13 +181,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "3093d99f48c4454a",
   "lastOpenFiles": [
-    "docs/_posts/2025-11-17-welcome-to-jekyll.md",
+    "docs/_drafts/2025-11-17-welcome-to-jekyll.md",
     "docs/_posts/2025-11-17-baa.md",
+    "docs/_posts/2025-11-17-testi.md",
+    "zTemplates/newpost.md",
+    "zAttachments",
+    "zTemplates",
     "docs/_site",
     "docs/_sass",
     "docs/_layouts",
